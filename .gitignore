@@ -1,0 +1,5 @@
+**/out/
+**/labels/
+*.log
+*.aux
+claude_utils/
